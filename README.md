@@ -1,6 +1,6 @@
 # Fullstack-Web-Development
-This repository contains practical projects, exercises, and structured notes developed during my learning journey in full stack web development.
-It covers fundamental and intermediate concepts of HTML, CSS, and JavaScript, focusing on clean code, layout fundamentals, responsiveness, and core programming logic. The content emphasizes hands-on practice, problem-solving, and modern web development best practices.
+Este repositório contém projetos práticos, exercícios e anotações estruturadas desenvolvidos ao longo da minha jornada de aprendizado em desenvolvimento web full stack.
+Ele abrange conceitos fundamentais e intermediários de HTML, CSS e JavaScript, com foco em código limpo, fundamentos de layout, responsividade e lógica de programação essencial. O conteúdo enfatiza a prática hands-on, a resolução de problemas e as boas práticas modernas do desenvolvimento web.
 
 # 📚 Sumário de Estudos
 ## 1. HTML
