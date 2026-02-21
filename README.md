@@ -1,2 +1,207 @@
 # Fullstack-Web-Development
-These projects were developed as part of continuous learning and practice, emphasizing clean code, problem-solving, and best practices in modern web development.
+This repository contains practical projects, exercises, and structured notes developed during my learning journey in full stack web development.
+It covers fundamental and intermediate concepts of HTML, CSS, and JavaScript, focusing on clean code, layout fundamentals, responsiveness, and core programming logic. The content emphasizes hands-on practice, problem-solving, and modern web development best practices.
+
+# 📚 Sumário de Estudos
+## 1. HTML
+- 1.1 Headers (h1–h6)
+- 1.2 Paragraphs
+- 1.3 Void Elements
+- 1.4 List Elements  
+  - Unordered Lists  
+  - Ordered Lists
+- 1.5 Nested Lists
+- 1.6 Anchor Element (Links)
+- 1.7 Tag Attributes
+- 1.8 Image Tags
+- 1.9 File Paths  
+  - Absolute Path  
+  - Relative Path  
+  - Special Characters (`./`, `../`)
+- 1.10 Linked Webpages
+- 1.11 Estrutura Padrão do HTML (HTML Boilerplate)
+- 1.12 Hospedagem de Sites  
+  - GitHub Pages  
+  - Netlify  
+  - InfinityFree
+
+---
+
+## 2. CSS
+- 2.1 O que é CSS?
+- 2.2 Adicionando CSS  
+  - Inline CSS  
+  - Internal CSS  
+  - External CSS
+- 2.3 CSS Selectors  
+  - Element / Tag Selector  
+  - Class Selector  
+  - ID Selector  
+  - Attribute Selector  
+  - Value Selector  
+  - Universal Selector
+- 2.4 Propriedades CSS  
+  - color  
+  - background-color  
+  - font-weight  
+  - font-size  
+  - font-family  
+  - text-align
+- 2.5 Inspeção e Debug de CSS
+- 2.6 Box Model  
+  - height  
+  - width  
+  - border  
+  - border-radius  
+  - padding  
+  - margin  
+  - div
+- 2.7 CSS Cascade  
+  - Ordem de Aparição  
+  - Especificidade  
+  - Tipo de CSS  
+  - `!important`
+- 2.8 Combinação de Seletores  
+  - Grupo  
+  - Child  
+  - Descendentes  
+  - Encadeamento  
+  - Combinações Avançadas
+- 2.9 Posicionamento de Elementos  
+  - static  
+  - relative  
+  - absolute  
+  - fixed  
+  - z-index
+- 2.10 Display  
+  - block  
+  - inline  
+  - inline-block  
+  - none
+- 2.11 Float e Clear
+- 2.12 Responsividade  
+  - Media Queries  
+  - CSS Grid  
+  - CSS Flexbox  
+  - Frameworks (Bootstrap)
+- 2.13 Media Queries Avançadas
+- 2.14 Flexbox  
+  - Conceitos Fundamentais  
+  - Propriedades do Container  
+  - Propriedades dos Itens  
+  - Algoritmo de Tamanho  
+  - Grow & Shrink
+- 2.15 CSS Grid  
+  - Flexbox vs Grid  
+  - Criação de Grid  
+  - Tamanhos e Frações  
+  - Técnicas Avançadas  
+  - Layout Responsivo Completo
+
+---
+
+## 3. JavaScript
+- 3.1 Introdução ao JavaScript
+- 3.2 Linguagem Interpretada vs Compilada
+- 3.3 Adicionando JavaScript ao Site  
+  - Console do Navegador  
+  - Script Snippets
+- 3.4 Funcionamento do JavaScript
+- 3.5 Comentários  
+  - Linha  
+  - Bloco
+- 3.6 Entrada e Saída de Dados  
+  - alert  
+  - console.log  
+  - prompt
+- 3.7 Tipos de Dados  
+  - String  
+  - Number  
+  - Boolean  
+  - typeof
+- 3.8 Variáveis  
+  - Declaração  
+  - Atribuição  
+  - Convenções de Nomenclatura
+- 3.9 Strings  
+  - Concatenação  
+  - Length  
+  - Slice  
+  - toUpperCase / toLowerCase
+- 3.10 Números  
+  - Operadores Aritméticos  
+  - Incremento e Decremento  
+  - Arredondamento  
+  - Exponenciação e Raiz  
+  - Operadores Lógicos
+- 3.11 Funções  
+  - Criação  
+  - Chamada  
+  - Parâmetros e Argumentos  
+  - Funções com e sem Retorno
+- 3.12 Geração de Números Aleatórios (Math.random)
+- 3.13 Estruturas Condicionais  
+  - if / else
+- 3.14 Operadores de Comparação e Lógicos  
+  - == vs ===  
+  - != vs !==  
+  - >, <, >=, <=  
+  - && (AND)  
+  - || (OR)
+- 3.15 Estruturas Condicionais Avançadas  
+  - else if  
+  - Condições Aninhadas  
+  - Boas Práticas com Condicionais
+- 3.16 Arrays  
+  - Criação de Arrays  
+  - Acesso por Índice  
+  - length  
+  - push  
+  - pop  
+  - shift  
+  - unshift  
+  - Inclusão e Remoção de Elementos
+- 3.17 Loops (Estruturas de Repetição)  
+  - for  
+  - while  
+  - do while  
+  - Loops com Arrays  
+  - Controle de Fluxo (break / continue)
+- 3.18 Funções Avançadas  
+  - Funções com Retorno  
+  - Funções Parametrizadas  
+  - Reutilização de Código  
+  - Escopo de Variáveis (Global vs Local)
+- 3.19 Objetos  
+  - Criação de Objetos  
+  - Propriedades  
+  - Métodos  
+  - Acesso com Dot Notation  
+  - Acesso com Bracket Notation
+- 3.20 Programação Orientada a Objetos (Introdução)  
+  - Conceito de Objeto  
+  - Métodos vs Funções  
+  - this  
+  - Estrutura Básica de OOP
+- 3.21 DOM (Document Object Model)  
+  - O que é o DOM  
+  - Árvore de Elementos  
+  - Relação entre HTML e JavaScript
+- 3.22 Selecionando Elementos do DOM  
+  - getElementById  
+  - getElementsByClassName  
+  - getElementsByTagName  
+  - querySelector  
+  - querySelectorAll
+- 3.23 Manipulação do DOM  
+  - innerHTML  
+  - textContent  
+  - style  
+  - classList  
+  - add  
+  - remove  
+  - toggle
+- 3.25 Manipulação de Atributos HTML  
+  - getAttribute  
+  - setAttribute  
+  - removeAttribute
